@@ -1,4 +1,3 @@
-OpenTorrent
 
 Descrição
 
